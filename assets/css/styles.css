@@ -54,7 +54,7 @@ body {
 }
 
 .whiteBlock{
-  background-color: #ffffff;`
+  background-color: #ffffff;
 }
 
 .footer-sticky{
@@ -103,7 +103,7 @@ body {
 a:hover{
     text-decoration: none;
     font-style: normal;
-    font-size: 150%;
+    font-size: 103%;
     font-weight: bolder;
     opacity: 90;
     transition: .5s ease;
@@ -189,9 +189,8 @@ border-top: #061830 10px solid;
   h1 {
     font-size: 60px;
   }
-    
+
   .homeImages{
     margin-bottom: 1em;
   }
-  
 }
